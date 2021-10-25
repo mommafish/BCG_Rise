@@ -24,6 +24,7 @@ I am __Poon Wei Yuan__, a highly committed individual aiming to establish long t
 [Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
+[Hobby](#Hobby) <br> 
 
 <!-- ABOUT Section Ends -->
 
