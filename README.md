@@ -40,7 +40,7 @@ UNIT: BCG GAMMA
 
 Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
 
-<!-- EXPERIENCE Section Ends -->
+<!-- EXPERIENCE Section Endsg -->
 
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
