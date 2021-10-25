@@ -46,20 +46,22 @@ TBA
 
 <!-- FEATURED Section Starts -->
 ## FEATURED
+<!-- Add your details -->
 ##### Certifications
-
 TBA
 
 ##### Achievements
 Hackathon for Business Essentials with a Top 2 Group Project Award listed on LinkedIn.
 
 Currently at the second phase of the BCG program learning Python, SQL, Etc. 
+
 <!-- FEATURED Section Ends -->
 
 
 <!-- GOALS Section Starts -->
 ### GOALS
-1.  Create my own deep learning program in gaming.
-2.  Build a GUI with youtube-dl to download my music playlist on Youtube-Music.
+<!-- Add your details -->
+Create my own deep learning program in gaming.
+Build a GUI with youtube-dl to download my music playlist on Youtube-Music.
 
 <!-- GOALS Section Ends -->
