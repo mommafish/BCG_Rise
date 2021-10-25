@@ -87,11 +87,7 @@ Star performer of the year at Accenture
 
 
 <!-- HOBBY Section Starts -->
-## HOBBIES
-<!-- Add your details -->
-##### Certifications
-Machine Learning by Columbia University
 
-##### Achievements
-Star performer of the year at Accenture
+Hello
+
 <!-- HOBBY Section Ends -->
