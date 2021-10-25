@@ -11,7 +11,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](profile.jpg)
+![alt text](https://raw.githubusercontent.com/mommafish/BCG_Rise/main/Pictures/PassportPhoto.jpg)
 
 <!-- Add your details -->
 
