@@ -87,7 +87,7 @@ Star performer of the year at Accenture
 
 
 <!-- HOBBY Section Starts -->
-<!-- Add your details -->
+### HOBBY
 Hello
 
 <!-- HOBBY Section Ends -->
