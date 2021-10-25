@@ -27,6 +27,7 @@ I am __Poon Wei Yuan__, a highly committed individual aiming to establish long t
 
 <!-- ABOUT Section Ends -->
 
+
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
@@ -39,10 +40,10 @@ Practice using tools and approaches used in data analytics for business. Such as
 
 <!-- PROJECTS Section Starts -->
 ### PROJECTS
-
 TBA
 
 <!-- PROJECTS Section Ends -->
+
 
 <!-- FEATURED Section Starts -->
 ## FEATURED
