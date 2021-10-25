@@ -45,18 +45,7 @@ TBA
 <!-- PROJECTS Section Ends -->
 
 
-<!-- FEATURED Section Starts -->
-## FEATURED
-<!-- Add your details -->
-##### Certifications
-TBA
 
-##### Achievements
-Hackathon for Business Essentials with a Top 2 Group Project Award listed on LinkedIn.
-
-Currently at the second phase of the BCG program learning Python, SQL, Etc. 
-
-<!-- FEATURED Section Ends -->
 
 
 <!-- GOALS Section Starts -->
