@@ -11,7 +11,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/mommafish/BCG_Rise/main/Pictures/profiletest.jpg =250x250)
+![alt text](https://raw.githubusercontent.com/mommafish/BCG_Rise/main/Pictures/profiletest.jpg)
 
 <!-- Add your details -->
 
