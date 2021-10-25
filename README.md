@@ -3,9 +3,8 @@
 
 <!-- Add your details -->
 ✉️: email_id@xxxxx.com 
-&nbsp;&nbsp; 📲 +91-XXXXXXXXXX
+&nbsp;&nbsp; 📲 +65-XXXXXXXXX
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/poon-wy/) 
-#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
