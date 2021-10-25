@@ -11,7 +11,8 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/mommafish/BCG_Rise/main/Pictures/cat-toes-paw-number-paws-tiger-tabby.jpg =250x250)
+![](https://raw.githubusercontent.com/mommafish/BCG_Rise/main/Pictures/cat-toes-paw-number-paws-tiger-tabby.jpg =250x250)
+![alt text]( =250x250)
 
 <!-- Add your details -->
 
