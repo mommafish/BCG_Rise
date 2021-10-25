@@ -11,7 +11,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-<img src="https://raw.githubusercontent.com/mommafish/BCG_Rise/main/Pictures/cat-toes-paw-number-paws-tiger-tabby.jpg" width="100" height="100">
+<img src="https://raw.githubusercontent.com/mommafish/BCG_Rise/main/Pictures/cat-toes-paw-number-paws-tiger-tabby.jpg" width="250" height="250">
 ![alt text](https://raw.githubusercontent.com/mommafish/BCG_Rise/main/Pictures/cat-toes-paw-number-paws-tiger-tabby.jpg =250x250)
 
 <!-- Add your details -->
