@@ -8,7 +8,7 @@
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
-### ABOUT
+## ABOUT
 <!-- Add link to your picture -->
 
 ![alt text](https://raw.githubusercontent.com/mommafish/BCG_Rise/main/Pictures/profiletest.jpg)
