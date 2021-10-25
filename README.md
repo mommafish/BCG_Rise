@@ -2,7 +2,7 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️: email_id@xxxxx.com 
+✉️: pwy_92@hotmail.com 
 &nbsp;&nbsp; 📲 +65-XXXXXXXXX
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/poon-wy/) 
 <!-- CONTACT Section Ends -->
@@ -15,7 +15,8 @@
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Poon Wei Yuan__, a highly committed individual aiming to establish long term career in IT field is seeking to transit into IT sector via suitable bridging programme. A life-long learner that keep myself abreast of IT developments and trend on my leisure time with sound knowledge of software/data visualization and digital transformation in the job market. I am open any opportunities where I can learn, grow and leave a positive impact. Looking forward to learning new things and meeting new people.
+
 
 
 <!-- Add link to the sections -->
