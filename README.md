@@ -84,3 +84,14 @@ Machine Learning by Columbia University
 ##### Achievements
 Star performer of the year at Accenture
 <!-- FEATURED Section Ends -->
+
+
+<!-- HOBBY Section Starts -->
+## HOBBIES
+<!-- Add your details -->
+##### Certifications
+Machine Learning by Columbia University
+
+##### Achievements
+Star performer of the year at Accenture
+<!-- HOBBY Section Ends -->
