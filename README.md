@@ -3,7 +3,7 @@
 
 <!-- Add your details -->
 ✉️: pwy_92@hotmail.com 
-&nbsp;&nbsp; 📲 +65-XXXXXXXXX
+&nbsp;&nbsp; 📲 +65-XXXXXXXX
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/poon-wy/) 
 <!-- CONTACT Section Ends -->
 
