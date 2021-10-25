@@ -11,7 +11,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/mommafish/BCG_Rise/main/Pictures/PassportPhoto.jpg)
+![alt text](https://raw.githubusercontent.com/mommafish/BCG_Rise/main/Pictures/cat-toes-paw-number-paws-tiger-tabby.jpg)
 
 <!-- Add your details -->
 
