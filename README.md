@@ -27,7 +27,7 @@ I am __Poon Wei Yuan__, a highly committed individual aiming to establish long t
 
 
 <!-- EDUCATION Section Starts -->
-### EDUCATION
+## EDUCATION
 <!-- Add your details -->
 ##### Boston Consulting Group (BCG) RISE Business & Data Analytics
 6-month SGUnited Mid-Career Pathways Programme	
@@ -37,22 +37,21 @@ Practice using tools and approaches used in data analytics for business. Such as
 <!-- EDUCATION Section Ends -->
 
 <!-- PROJECTS Section Starts -->
-### PROJECTS
+## PROJECTS
 TBA
 
 <!-- PROJECTS Section Ends -->
 
 
 <!-- FEATURED Section Starts -->
-### FEATURED
+## FEATURED
 <!-- Add your details -->
 ##### Certifications
 TBA
 
 ##### Achievements
-Hackathon for Business Essentials with a Top 2 Group Project Award listed on LinkedIn.
-
-Currently at the second phase of the BCG program learning Python, SQL, Etc. 
+1.  Hackathon for Business Essentials with a Top 2 Group Project Award listed on LinkedIn.
+2.  Currently at the second phase of the BCG program learning Python, SQL, Etc. 
 
 <!-- FEATURED Section Ends -->
 
