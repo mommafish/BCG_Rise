@@ -59,7 +59,7 @@ TBA
 <!-- GOALS Section Starts -->
 ## GOALS
 <!-- Add your details -->
-1.  Create my own deep learning program in gaming. Silther.io, Mario
-2.  Build a GUI with youtube-dl fork to download my music playlist on Youtube-Music.
+1.  Create my own deep learning program in gaming such as Silther.io, Mario.
+2.  Learn to build a GUI with youtube-dl to download my music playlist from Youtube-Music.
 
 <!-- GOALS Section Ends -->
