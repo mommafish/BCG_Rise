@@ -51,8 +51,8 @@ TBA
 TBA
 
 ##### Achievements
-1.  Hackathon for Business Essentials with a Top 2 Group Project Award listed on LinkedIn.
-2.  Currently at the second phase of the BCG program learning Python, SQL, Etc. 
+1.  Online Badge for BCG RISE Top 2 Hackathon Business Essentials Group Project.
+2.  Online Badge for BCG RISE Distinction Hackathon Project. 
 
 <!-- FEATURED Section Ends -->
 
