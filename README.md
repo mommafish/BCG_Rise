@@ -51,9 +51,9 @@ TBA
 TBA
 
 ##### Achievements
-1.  BCG RISE Top 2 Hackathon Business Essentials Group Project.
-2.  BCG RISE Distinction Hackathon Project. 
-3.  Coursera Google Data Analytics Certificate.
+1.  BCG RISE, Top 2 Hackathon Business Essentials Group Project.
+2.  BCG RISE, Distinction for Hackathon Project. 
+3.  Coursera, Google Data Analytics Certificate.
 
 
 <!-- FEATURED Section Ends -->
