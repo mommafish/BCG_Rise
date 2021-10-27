@@ -51,8 +51,10 @@ TBA
 TBA
 
 ##### Achievements
-1.  Online Credly Badge for BCG RISE Top 2 Hackathon Business Essentials Group Project.
-2.  Online Credly Badge for BCG RISE Distinction Hackathon Project. 
+1.  Online Credly Badge from BCG RISE Top 2 Hackathon Business Essentials Group Project.
+2.  Online Credly Badge from BCG RISE Distinction Hackathon Project. 
+3.  Online Credly Badge from Coursera Google Data Analytics Certificate.
+
 
 <!-- FEATURED Section Ends -->
 
