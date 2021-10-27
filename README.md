@@ -5,6 +5,7 @@
 ✉️: pwy_92@hotmail.com 
 &nbsp;&nbsp; 📲 +65-XXXXXXXX
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/poon-wy/) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Credly](https://www.credly.com/users/poon-wei-yuan) 
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
