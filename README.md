@@ -1,15 +1,8 @@
 <!-- FAQ Section Starts -->
-## WHAT IS THIS?
+## WHAT IS THIS PLACE?
 1.  This is a learning Repo from BCG_Rise.
 2.  This Repo is created to test my codes and github settings. 
 3.  Everything will be a mess please check my other repository in the future!
-
-
-
-
-
-
-
 <!-- FAQ Section Ends -->
 
 
