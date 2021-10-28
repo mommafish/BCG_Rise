@@ -62,7 +62,7 @@ TBA
 <!-- GOALS Section Starts -->
 ## GOALS
 <!-- Add your details -->
-1.  Create machine learning program to use in gaming such as Silther.io, Mario as an experiment.
+1.  Create machine learning program to experiment in gaming such as Silther.io, Mario.
 2.  Learn to build a GUI with youtube-dl to download my music playlist from Youtube-Music.
 
 <!-- GOALS Section Ends -->
