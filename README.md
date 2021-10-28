@@ -12,7 +12,7 @@
 ## ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/mommafish/BCG_Rise/main/Pictures/profiletest.jpg)
+![alt text](https://raw.githubusercontent.com/mommafish/BCG_Rise/main/Picture/profile1.jpg)
 
 <!-- Add your details -->
 
