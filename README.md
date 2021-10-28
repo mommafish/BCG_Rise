@@ -1,6 +1,6 @@
-#This is a learning Repo from BCG_Rise.
-#This Repo is created to test my codes and github settings. 
-#Everything will be a mess please check my other repository in the future!
+##This is a learning Repo from BCG_Rise.
+##This Repo is created to test my codes and github settings. 
+##Everything will be a mess please check my other repository in the future!
 
 
 <!-- CONTACT Section Starts -->
