@@ -20,7 +20,7 @@ SQL_Practice_Quiz_2
 
 SQL_Practice_Quiz_3
 * JOINS
-![alt text](https://raw.githubusercontent.com/mommafish/BCG_Rise/main/SQL_Library/Screenshot%20Notes/JOINS%20Functions.png)
+* ![alt text](https://raw.githubusercontent.com/mommafish/BCG_Rise/main/SQL_Library/Screenshot%20Notes/JOINS%20Functions.png)
 <!-- Revision Section Ends -->
 
 
