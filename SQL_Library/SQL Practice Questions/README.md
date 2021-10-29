@@ -1,5 +1,5 @@
 <!-- CONTENTS Section Starts -->
-## Summay of SQL Basic Queries
+## Summary of SQL Basic Queries
 1. SQL_Practice_Quiz_1
 * SELECT, CAST, CONVERT 102 Date, ISNULL, CASE, COALESCE
 
