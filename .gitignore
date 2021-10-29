@@ -1,0 +1,9 @@
+# My Custom Git Ignore Page
+Start_Git_Here.bat
+
+# Templates
+.DS_Store
+
+# Python
+.ipynb_checkpoints
+
