@@ -1,6 +1,6 @@
 <!-- FAQ Section Starts -->
-## SQL Archives
-1.  Updating my SQL work files here in  the future.
-2.  Content archiving in progress
+## SQL Library
+1. SQL work files go here.
+2. Content archiving folder.
 
 <!-- FAQ Section Ends -->
