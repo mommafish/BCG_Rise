@@ -1,7 +1,7 @@
 <!-- FAQ Section Starts -->
 ## SQL Library
-1. SQL work files go here.
-2. Content archiving folder.
+*   SQL work files go here.
+*   Content archiving folder.
 
 <!-- Add link to the sections -->
 [Revision](#Revision) <br>
