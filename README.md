@@ -11,7 +11,7 @@
 ### ARCHIVES
 
 <!-- Add your details -->
-1.  Python Archives
-2.  SQL Archives
+1.  Python Library
+2.  SQL Library
 
 <!-- ARCHIVES Section Ends -->
