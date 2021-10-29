@@ -4,8 +4,8 @@
 *   Content archiving folder.
 
 <!-- Add link to the sections -->
-[Revision](#Revision) <br>
-[TBA](#TBA) <br>
+* [Revision](#Revision) <br>
+* [TBA](#TBA) <br>
 <!-- FAQ Section Ends -->
 
 
