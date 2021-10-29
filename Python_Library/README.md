@@ -1,11 +1,11 @@
 <!-- FAQ Section Starts -->
 ## Python Library
-*   Python work files go here.
-*   Content archiving folder.
+1. Python work files go here.
+2. Content archiving folder.
 
 <!-- Add link to the sections -->
-* [Revision](#Revision) <br>
-* [TBA](#TBA) <br>
+[Revision](#Revision) <br>
+[TBA](#TBA) <br>
 <!-- FAQ Section Ends -->
 
 
