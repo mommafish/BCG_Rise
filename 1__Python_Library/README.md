@@ -8,6 +8,6 @@
 <!-- MAP Section Starts -->
 ### History
 [Python_Practice](https://github.com/mommafish/BCG_Rise/tree/main/1__Python_Library/Python_Practice)
-* ---> Covered the basics of Python programming from sample questions provided by BCG
+* Covered the basics of Python programming from sample questions provided by BCG
 
 <!-- MAP Section Ends -->
