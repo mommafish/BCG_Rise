@@ -7,6 +7,5 @@
 * DISTINCT, ORDER BY DESC ASC, OFFSET n ROWS FETCH NEXT n ROWS ONLY, WHERE IN OR AND LIKE.
 
 #### SQL_Practice_Quiz_3
-* JOINS
 * ![alt text](https://raw.githubusercontent.com/mommafish/BCG_Rise/main/2__SQL_Library/Screenshot%20Notes/JOINS%20Functions.png)
 <!-- Revision Section Ends -->
