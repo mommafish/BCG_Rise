@@ -8,7 +8,7 @@
 
 <!-- MAP Section Starts -->
 ### History
-[SQL_Practice](https://github.com/mommafish/BCG_Rise/tree/main/2__SQL_Library/SQL_Practice)
+[SQL_Practice](https://github.com/mommafish/BCG_Rise/tree/main/2__SQL_Library/SQL_Practice_Week_1)
 * Covered the basics of SQL queries from AdventureWorks sample databases.
 
 <!-- MAP Section Ends -->
