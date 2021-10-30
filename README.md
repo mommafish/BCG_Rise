@@ -19,6 +19,6 @@ Every code we type is meaningful in our life. I am proud to be a programmer.
 ### ARCHIVE FOLDERS
 <!-- Add your details -->
 1.  [Python Library](https://github.com/mommafish/BCG_Rise/tree/main/1__Python_Library)
-2.  [SQL Library](https://github.com/mommafish/BCG_Rise/tree/main/2__SQL_Library
+2.  [SQL Library](https://github.com/mommafish/BCG_Rise/tree/main/2__SQL_Library)
 
 <!-- ARCHIVES Section Ends -->
