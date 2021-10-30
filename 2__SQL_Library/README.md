@@ -9,9 +9,6 @@
 <!-- MAP Section Starts -->
 ### History
 [SQL_First_Practice](https://github.com/mommafish/BCG_Rise/tree/main/2__SQL_Library/SQL_First_Practice)
-* ---> 18/10/2021 - Covered the basics of SQL and basic queries from AdventureWorks sample databases.
-
-TBA
-* ---> TBA
+* ---> 18/10/2021 - Covered the basics of SQL queries from AdventureWorks sample databases.
 
 <!-- MAP Section Ends -->
