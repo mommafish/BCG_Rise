@@ -2,20 +2,12 @@
 ## Python Library
 1. Python work files go here.
 2. Content archiving folder.
-
-<!-- Add link to the sections -->
-[Revision](#Revision) <br>
-[TBA](#TBA) <br>
 <!-- FAQ Section Ends -->
 
 
-<!-- Revision Section Starts -->
-## Revision
-1. Mini Project 0
-<!-- Revision Section Ends -->
+<!-- MAP Section Starts -->
+### History
+[Python_Practice](https://github.com/mommafish/BCG_Rise/tree/main/1__Python_Library/Python_Practice)
+* ---> Covered the basics of Python programming from sample questions provided by BCG
 
-
-<!-- TBA Section Starts -->
-## TBA
-TBA
-<!-- TBA Section Ends -->
+<!-- MAP Section Ends -->
