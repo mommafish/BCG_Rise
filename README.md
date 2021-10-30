@@ -2,9 +2,7 @@
 ## CODE DIARY
 Life of a programmer is full of learning, errors, achievement, and passion.
 
-Every code we type is meaningful in our life. 
-
-I am proud to be a programmer.
+Every code we type is meaningful in our life. I am proud to be a programmer.
 
 <!-- DIARY Section Ends -->
 
@@ -12,7 +10,7 @@ I am proud to be a programmer.
 <!-- FAQ Section Starts -->
 ### MY MISSION
 1.  This is a repository created for BCG_Rise.
-3.  Archiving my programming work from BCG_Rise and study notes for future referencing.
+2.  Archiving my programming work from BCG_Rise and study notes for future referencing.
 
 <!-- FAQ Section Ends -->
 
