@@ -10,4 +10,7 @@
 [Python_Practice](https://github.com/mommafish/BCG_Rise/tree/main/1__Python_Library/Python_Practice)
 * Covered the basics of Python programming from sample questions provided by BCG
 
+[Intro_to_Pandas](https://github.com/mommafish/BCG_Rise/tree/main/1__Python_Library/Intro_to_Pandas)
+* Covered the basics of Pandas and practice from sample questions provided by BCG
+
 <!-- MAP Section Ends -->
