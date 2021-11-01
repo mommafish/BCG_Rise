@@ -1,4 +1,4 @@
---- WITH JOINS
+--- FROM IU4.3.6-_Quiz_JOINS_Inner_Outer
 
 
 -- Challenge 1: Generate Invoice Reports
