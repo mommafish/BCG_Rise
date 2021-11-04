@@ -12,7 +12,7 @@
   * Deleting a frame with axis= and inplace=
   * Saving a dataframe with .to_csv()
 
-#### [Intro to Pandas 2](https://github.com/mommafish/BCG_Rise/tree/main/1__Python_Library/Intro_to_Pandas/1101_Introduction%20to%20Pandas)
+#### [Intro to Pandas 2](https://github.com/mommafish/BCG_Rise/tree/main/1__Python_Library/Intro_to_Pandas/1102_Pandas2)
 * Topics
   * Plot Graphs in Python 
    * import matplotlib.pyplot as plt
