@@ -35,3 +35,16 @@
    * .stack() / .unstack() ## to stack the prescribed level(s) from columns to index. vice versa
    * .pivot / .pivot_table() ## fyi (index = x-axis), (values = y-axis), (aggfunc = 'mean')
    * pd.crosstab()
+
+   #### [Intro to Pandas 3](link tba)
+* Topics
+  * A recap of Intro to Pandas 1,2 using a problem statment on HDB to calculate pricing and show as a chart.
+  * Using mathematic formulas in pandas such as .mean() and .std()
+  * Filtering a column with a specific word, df[df['town']=='ANG MO KIO'] 
+  * Creating new column with a IF/ELSE excel function (np.where)
+  * Visualize a column by value_counts() including a % chart showing in a pie chart
+  * Making use of groupby() to count a column and visualize in a bar chart.
+  * Making use of groupby() to visualize a bar chart with a different x-axis and y-axis
+  * Using groupby() to combine two data into x-axis and compare with one y-axis
+  * Using .loc to compare difference between two data groups
+  * Single out one condition using groupby(['combined x-axis').size()['combined y-axis']
