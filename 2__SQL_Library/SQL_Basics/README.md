@@ -18,6 +18,7 @@
 #### SQL_Practice_Quiz_4
 * Topics
   * Creating UNION Queries (Combine two or more result sets into a single set, without duplicates.)
+  * UNION ALL (combines the results from both queries and retains duplicates)
   * INTERSECT Queries (Takes the data from both result sets which are in common.)
   * Except Queries (Takes the data from the first result set, but not in the second result set)
 
