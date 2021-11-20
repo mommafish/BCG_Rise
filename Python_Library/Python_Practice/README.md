@@ -32,14 +32,9 @@
   * File Handling in Python
   * Weather Data
 
-#### [Python_Ramp_Up_Final](https://github.com/mommafish/BCG_Rise/tree/main/Python_Library/Python_Practice/1310__Python_Ramp_Up_Final)
+#### [Python_Ramp_Up_4](https://github.com/mommafish/BCG_Rise/tree/main/Python_Library/Python_Practice/1310__Python_Ramp_Up_4)
 * Python_Aditional_Exercise
   * Using Mathematical functions to create a functioning maths calculator
   * Using defined functions to calculate data from a CSV file using !curl
-* Mini_Project_0
-  * Recap of all lessons, to define functions, to create a dictonrary, to use loopings, etc
-
-#### [Python_Extra_Exercises](https://github.com/mommafish/BCG_Rise/tree/main/Python_Library/Python_Practice/Python_Extra_Exercises)
-* Additional Questions to practise on the metioned topics.
 
 <!-- Revision Section Ends -->
