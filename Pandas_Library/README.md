@@ -9,5 +9,6 @@
 ### History
 [Intro_to_Pandas](https://github.com/mommafish/BCG_Rise/tree/main/Pandas_Library/Intro_to_Pandas)
 * Covered the basics of Pandas and practice from sample questions provided by BCG
+* Pandas are worked on Jupyter Notebook
 
 <!-- MAP Section Ends -->
