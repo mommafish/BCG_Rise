@@ -21,6 +21,9 @@ Every code we type is meaningful in our life. I am proud to be a programmer.
 1.  [Python Library](https://github.com/mommafish/BCG_Rise/tree/main/Python_Library/Python_Practice)
 2.  [SQL Library](https://github.com/mommafish/BCG_Rise/tree/main/SQL_Library)
 3.  [Pandas Library](https://github.com/mommafish/BCG_Rise/tree/main/Pandas_Library)
-5.  [Mini Projects](https://github.com/mommafish/BCG_Rise/tree/main/Mini_Project)
+4.  [PowerBI Library](https://github.com/mommafish/BCG_Rise/tree/main/PowerBI_Library)
+5.  [Statistics Library](https://github.com/mommafish/BCG_Rise/tree/main/Statistics_Library)
+
+6.  [Mini Projects](https://github.com/mommafish/BCG_Rise/tree/main/Mini_Project)
 
 <!-- ARCHIVES Section Ends -->
