@@ -19,7 +19,7 @@ Listed projects tasks and system used will be noted down here.
 [Mini Project 2]()
 * tba
 
-[Additional Practise Questions](https://github.com/mommafish/BCG_Rise/tree/main/Mini_Project/More_Exercises)
+[Additional Practice Questions](https://github.com/mommafish/BCG_Rise/tree/main/Mini_Project/More_Exercises)
 1. Python Exercise
 2. SQL Exercise
 3. Pandas Exercise
