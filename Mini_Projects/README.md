@@ -1,25 +1,14 @@
-<!-- DIARY Section Starts -->
-## CODE DIARY
-Life of a programmer is full of learning, errors, achievement, and passion.
-
-Every code we type is meaningful in our life. I am proud to be a programmer.
-
-<!-- DIARY Section Ends -->
-
-
 <!-- FAQ Section Starts -->
-### MY MISSION
-1.  This is a repository created for BCG_Rise.
-2.  Archiving my programming work from BCG_Rise and study notes for future referencing.
+## Archives
+Mini Projects provided by BCG Rise will be archived here.
 
 <!-- FAQ Section Ends -->
 
 
-<!-- ARCHIVES Section Starts -->
-### ARCHIVE FOLDERS
-<!-- Add your details -->
-1.  [Python Library](https://github.com/mommafish/BCG_Rise/tree/main/Python_Library/Python_Practice)
-2.  [SQL Library](https://github.com/mommafish/BCG_Rise/tree/main/SQL_Library)
-5.  [Quiz & Mini Projects](https://github.com/mommafish/BCG_Rise/tree/main/Quiz_&_Mini_Projects)
+<!-- MAP Section Starts -->
+### Directory
+1.  [Mini Project 0](https://github.com/mommafish/BCG_Rise/tree/main/Python_Library/Python_Practice)
+* Recap of all lessons, to define functions, to create a dictonrary, to use loopings, etc
+3.  test
 
-<!-- ARCHIVES Section Ends -->
+<!-- MAP Section Ends -->
