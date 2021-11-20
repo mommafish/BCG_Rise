@@ -1,6 +1,6 @@
 <!-- Revision Section Starts -->
 ## Topics Covered
-#### [Introduction to Pandas for Data Science](https://github.com/mommafish/BCG_Rise/tree/main/1__Python_Library/Intro_to_Pandas/1101_Introduction%20to%20Pandas)
+#### [Introduction to Pandas for Data Science](https://github.com/mommafish/BCG_Rise/tree/main/Python_Library/Intro_to_Pandas/1101_Introduction%20to%20Pandas)
 * Import pandas as pd
 * Load CSV file using pd.read_csv()
 * Accessing Values for rows/columns
@@ -11,7 +11,7 @@
 * Deleting a frame with axis= and inplace=
 * Saving a dataframe with .to_csv()
 
-#### [Intro to Pandas 2](https://github.com/mommafish/BCG_Rise/tree/main/1__Python_Library/Intro_to_Pandas/1102_Pandas2)
+#### [Intro to Pandas 2](https://github.com/mommafish/BCG_Rise/tree/main/Python_Library/Intro_to_Pandas/1102_Pandas2)
 * Plot Graphs in Python 
   * import matplotlib.pyplot as plt
   * Plot Histogram with plt.hist()
@@ -34,7 +34,7 @@
   * .pivot / .pivot_table() ## fyi (index = x-axis), (values = y-axis), (aggfunc = 'mean')
   * pd.crosstab()
 
-#### [Intro to Pandas 3](https://github.com/mommafish/BCG_Rise/tree/main/1__Python_Library/Intro_to_Pandas/1103_Pandas3)
+#### [Intro to Pandas 3](https://github.com/mommafish/BCG_Rise/tree/main/Python_Library/Intro_to_Pandas/1103_Pandas3)
 * A recap of Intro to Pandas 1,2 using a problem statment on HDB to calculate pricing and show as a chart.
   * Using mathematic formulas in pandas such as .mean() and .std()
   * Filtering a column with a specific word, df[df['town']=='ANG MO KIO'] 

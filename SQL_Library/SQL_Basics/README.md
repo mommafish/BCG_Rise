@@ -12,7 +12,7 @@
   * Filtering and Using Predicates (WHERE)
 
 #### SQL_Practice_Quiz_3
-![alt text](https://raw.githubusercontent.com/mommafish/BCG_Rise/main/2__SQL_Library/Screenshot%20Notes/JOINS%20Functions.png)
+![alt text](https://raw.githubusercontent.com/mommafish/BCG_Rise/main/SQL_Library/Screenshot%20Notes/JOINS%20Functions.png)
 
 
 #### SQL_Practice_Quiz_4
