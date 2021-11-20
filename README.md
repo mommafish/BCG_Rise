@@ -20,5 +20,6 @@ Every code we type is meaningful in our life. I am proud to be a programmer.
 <!-- Add your details -->
 1.  Python Library
 2.  SQL Library
+5.  Quiz & Mini Projects
 
 <!-- ARCHIVES Section Ends -->
