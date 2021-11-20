@@ -7,7 +7,7 @@ Mini Projects provided by BCG Rise will be archived here.
 
 <!-- MAP Section Starts -->
 ### Directory
-[Mini Project 0](https://github.com/mommafish/BCG_Rise/tree/main/Mini_Project/Mini_Project_0)
+[Mini Project 0](https://github.com/mommafish/BCG_Rise/tree/main/Mini_Projects/Mini_Project_0)
 * Jupyter Notebook
 * Recap of all lessons, to define functions, to create a dictonrary, to use loopings, etc
 
