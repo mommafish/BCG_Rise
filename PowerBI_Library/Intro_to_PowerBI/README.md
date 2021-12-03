@@ -18,5 +18,6 @@
  * Create New Automatic meaures from (Home > New Measure)
  * DAX functions such as sum(), date(), AND, IF... etc
  * Inteperting a Treemap visual with drilldown.
-=======
->>>>>>> 37c908007a747d12494428e11d78166c04c263f1
+
+#### [PowerBI Class 02](https://github.com/mommafish/BCG_Rise/tree/main/PowerBI_Library/Intro_to_Pandas/1108_PowerBI_Class_02)
+* TBA
