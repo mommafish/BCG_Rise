@@ -9,6 +9,7 @@
 <!-- MAP Section Starts -->
 ### History
 [SQL_Basics](https://github.com/mommafish/BCG_Rise/tree/main/SQL_Library/SQL_Basics)
+* Using Azure SQL
 * Covered the basics of SQL queries from AdventureWorks sample databases.
 
 <!-- MAP Section Ends -->
