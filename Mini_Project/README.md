@@ -17,8 +17,11 @@ Listed projects tasks and system used will be noted down here.
 * Writing DAX expressions, Managing dataset relationships, Data visualization with sliders
 
 [Mini Project 2](https://github.com/mommafish/BCG_Rise/tree/main/Mini_Project/Mini_Project_2)
-* Python with Jupyter Notebook
-* Using Pandas, functions and plots to make Analysis results with Null and Alternate Hypothesis.
+* Pandas Functions with Jupyter Notebook
+* Defining functions and plots to make Analysis results with Null and Alternate Hypothesis.
+
+[Mini Project 3](https://github.com/mommafish/BCG_Rise/tree/main/Mini_Project/Mini_Project_3)
+* TBA
 
 [Additional Practice Questions](https://github.com/mommafish/BCG_Rise/tree/main/Mini_Project/More_Exercises)
 1. Python Exercise
