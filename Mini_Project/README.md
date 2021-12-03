@@ -16,8 +16,9 @@ Listed projects tasks and system used will be noted down here.
 * Data Visualization with PowerBI Desktop
 * Writing DAX expressions, Managing dataset relationships, Data visualization with sliders
 
-[Mini Project 2]()
-* tba
+[Mini Project 2](https://github.com/mommafish/BCG_Rise/tree/main/Mini_Project/Mini_Project_2)
+* Python with Jupyter Notebook
+* Using Pandas, functions and plots to make Analysis results with Null and Alternate Hypothesis.
 
 [Additional Practice Questions](https://github.com/mommafish/BCG_Rise/tree/main/Mini_Project/More_Exercises)
 1. Python Exercise
