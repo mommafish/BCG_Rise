@@ -7,7 +7,12 @@
 
 <!-- MAP Section Starts -->
 ### History
-[tba](https://github.com/mommafish/BCG_Rise/tree/main/Statistics_Library/Intro_to_Pandas)
-* tba
+[Intro to Statistics](https://github.com/mommafish/BCG_Rise/tree/main/Statistics_Library/Intro_to_Statistical_Analysis)
+* Topics Covered in Statistical Analysis using Python/Pandas
+  * Descriptive Stats
+  * Basic Probability
+  * Random Variables
+  * Sampling & Confidence Levels
+  * Hypothesis Testing
 
 <!-- MAP Section Ends -->
