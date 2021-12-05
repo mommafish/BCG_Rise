@@ -8,7 +8,7 @@
 * Visualization and Fliters customization tab on the right
 <<<<<<< HEAD
 
-#### [PowerBI Class 02](https://github.com/mommafish/BCG_Rise/tree/main/PowerBI_Library/Intro_to_Pandas/1108_PowerBI_Class_02)
+#### [PowerBI Class 02](https://github.com/mommafish/BCG_Rise/tree/main/PowerBI_Library/Intro_to_PowerBI/1108_PowerBI_Class_02)
 * Assignment 1
   * Upload CSV file to PowerBI desktop
   * Merging Columns with PowerBI
