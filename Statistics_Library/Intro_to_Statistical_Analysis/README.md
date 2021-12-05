@@ -1,6 +1,6 @@
 <!-- Revision Section Starts -->
 ## Topics Covered
-#### [Descriptive Stats](link)
+#### [Descriptive Stats](https://github.com/mommafish/BCG_Rise/tree/main/Statistics_Library/Intro_to_Statistical_Analysis/1115_Descriptive_Stats)
 * Using Pandas to find the mean, mode, median, etc
   * df['dataset'].mean()
   * df['dataset'].agg({'columnA':['mean'] , 'columnB':['mode'] , 'columnC':['median']}) 
