@@ -19,5 +19,10 @@
   * DAX functions such as sum(), date(), AND, IF... etc
   * Inteperting a Treemap visual with drilldown.
 
-#### [PowerBI Class 02](https://github.com/mommafish/BCG_Rise/tree/main/PowerBI_Library/Intro_to_Pandas/1108_PowerBI_Class_02)
-* TBA
+#### [PowerBI Class 02](https://github.com/mommafish/BCG_Rise/tree/main/PowerBI_Library/Intro_to_Pandas/1110_PowerBi_Class_02)
+* Practice 1 - Importing 'Churn' Dataset
+  * Importing 'Churn' Dataset with Python script using pd.read_csv
+  * 'Python Visualization' with powerBi by importing (matplotlib.pyplot as plt) and (import seaborn as sns)
+  * Defining the types of plots with PowerBI Python Visualization
+    * eg. relplot, swarmplot, dataset.plot
+  * Testing the correlation between data with (dataset.corr) and (sns.heatmap)
