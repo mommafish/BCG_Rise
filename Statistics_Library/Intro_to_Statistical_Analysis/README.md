@@ -28,4 +28,17 @@
   * x = range of data
 
 
+#### [Random Variables 1](https://github.com/mommafish/BCG_Rise/tree/main/Statistics_Library/Intro_to_Statistical_Analysis/1117_Random_Variables_1)
+* Individual Assignment 1 (Bernoulli and Binomal Random Variables)
+  * Bernoulli function (bernoulli(x))
+  * Probability Mass Function (x.pmf)
+  * Drawing 1000 random samples with function (x.rvs(1000))
+  * Bionomial PMF and CDF
+    * Defining a new function for Probability Mass Function
+    * Defining a new function for Cumulative Mass Function
+    * Use binom.pmf to find the chance of a coin with HEADS out of 3 chances in 5 flips.
+      * e.g = binom.pmf(3,5,0.5)
+
+
+
 <!-- Revision Section Ends -->
