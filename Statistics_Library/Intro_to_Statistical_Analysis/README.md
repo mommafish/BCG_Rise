@@ -63,4 +63,22 @@
     * A discrete random variable that counts the number of times a certain event will occur in a specific interval.
 
 
+#### [Sampling & Confidence Intervals](https://github.com/mommafish/BCG_Rise/tree/main/Statistics_Library/Intro_to_Statistical_Analysis/1122_Sampling_Confidence_Intervals)
+* Sample Distribution of a sample proportion
+  * p-hat
+    * The sample proportion, denoted. (pronounced p-hat), is the proportion of individuals in the sample who have that particular characteristic; in other words, the number of individuals in the sample who have that characteristic of interest divided by the total sample size (n)
+
+* Mean and Standard Error of a Sampling Distribution of Proportion
+  * Simulated Sampling Distribution
+
+* Sampling Distribution of Sample Means
+  * Analyse Mean and Varience of the Sampling Distribution
+
+* Confidence Intervals
+  * Displaying Sampling Mean
+  * Displaying Sampling Standard Deviation
+  * 95% Confidence Interval analysis
+    * from scipy import stats
+
+
 <!-- Revision Section Ends -->
