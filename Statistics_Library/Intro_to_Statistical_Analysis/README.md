@@ -8,7 +8,9 @@
 [3. Random Variables 1](#3) <br> 
 [4. Random Variables 2](#4) <br> 
 [5. Sampling & Confidence Intervals](#5) <br> 
-[6. tba](#6) <br> 
+[6. Hypothesis Testing 1](#6) <br> 
+[7. Hypothesis Testing 2](#7) <br> 
+[8. Additional Notes](#8) <br> 
 <!-- ABOUT Section Ends -->
 
 ##### 1
@@ -89,7 +91,37 @@
 
   
 ##### 6
-#### [tba](https://github.com/mommafish/BCG_Rise/tree/main/Statistics_Library/Intro_to_Statistical_Analysis/1122_Sampling_Confidence_Intervals)
+#### [Hypothesis Testing 1](https://github.com/mommafish/BCG_Rise/tree/main/Statistics_Library/Intro_to_Statistical_Analysis/1123_Hypothesis_Testing_1)
+* Hypothesis testing refers to the formal procedures used by statisticians to accept or reject such statistical hypotheses. e.g a coin flip
+  1. Null hypothesis, Ho: half the flips would result in Heads and half, in Tails
+  2. Alternative hypothesis, Ha: the number of Heads and Tails would be very different
+* Confidence Level and Significant Level
+  * The significance level is a probability threshold that determines when you reject the null hypothesis. The confidence level is equivalent to 1 – the significance level
+  * The probability to see a result to reject or accecpt the null hypothesis is known as the 'P-Value'.
+* One Tailed
+  * Null H0: x < 10
+  * Alternate Ha: x > 10
+* Two Tailed
+  * Null H0: x = 10
+  * Alternate Ha: 10 > x > 10
+* Types of Hypothesis Test
+  1. t-test <br>
+    * Shapiro-Wilk Test
+    * Levene's Test
+  2. Z-test
+  3. Chi-Square Test
+  4. Mann-Whitney U Test
+* Types of Erros in Hypothesis Testing
+  1. Type I error - Reject Null when it is True 
+  2. Type II error - Accept Null when it is False
+
+##### 7
+#### [Hypothesis Testing 2](https://github.com/mommafish/BCG_Rise/tree/main/Statistics_Library/Intro_to_Statistical_Analysis/1124_Hypothesis_Testing_2)
+* tba
+
+
+##### 8
+#### [Additional Notes](https://github.com/mommafish/BCG_Rise/tree/main/Statistics_Library/Intro_to_Statistical_Analysis/1125_Additional_Notes)
 * tba
 
 
