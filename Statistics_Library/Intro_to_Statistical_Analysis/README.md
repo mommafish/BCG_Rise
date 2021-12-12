@@ -117,12 +117,25 @@
 
 ##### 7
 #### [Hypothesis Testing 2](https://github.com/mommafish/BCG_Rise/tree/main/Statistics_Library/Intro_to_Statistical_Analysis/1124_Hypothesis_Testing_2)
-* tba
-
+* Individual Assignment (Hypothesis Testing-Lab)
+  * Practice Questions to Accept or Reject Null Hypothesis for One Tailed and Two Tailed Test.
+    * Z-Score
+    * P-Value
+    * T-test
+    * ANOVA
+    * Chi-Squared
 
 ##### 8
 #### [Additional Notes](https://github.com/mommafish/BCG_Rise/tree/main/Statistics_Library/Intro_to_Statistical_Analysis/1125_Additional_Notes)
-* tba
+* Additional Notes for reference provided by Trainer.
+  * Parametric vs Non-Parametric
+  * Types of Data
+    * Quantitative
+      * Discrete
+      * Continous
+    * Qualitative
+      * Nominal
+      * Ordinal
 
 
 <!-- Revision Section Ends -->
