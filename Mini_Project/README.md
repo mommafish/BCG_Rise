@@ -22,7 +22,7 @@ Listed projects tasks and system used will be noted down here.
 
 [Mini Project 3](https://github.com/mommafish/BCG_Rise/tree/main/Mini_Project/Mini_Project_3)
 * Juypter Notebook exercise using Machine learning to make analysis
-* Creating models to manipulate and analysis data using LogisticRegression or RandomForestClassifier and visualizaing them by plotting charts in Python
+* Create models to manipulate and analyse data using LogisticRegression or RandomForestClassifier with visualization using Seaborn 
 
 [Additional Practice Questions](https://github.com/mommafish/BCG_Rise/tree/main/Mini_Project/More_Exercises)
 1. Python Exercise
