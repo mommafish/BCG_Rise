@@ -18,10 +18,11 @@ Listed projects tasks and system used will be noted down here.
 
 [Mini Project 2](https://github.com/mommafish/BCG_Rise/tree/main/Mini_Project/Mini_Project_2)
 * Pandas Functions with Jupyter Notebook
-* Defining functions and plots to make Analysis results with Null and Alternate Hypothesis.
+* Defining functions and plots to make Analysis results with Null and Alternate Hypothesis
 
 [Mini Project 3](https://github.com/mommafish/BCG_Rise/tree/main/Mini_Project/Mini_Project_3)
-* TBA
+* Juypter Notebook exercise using Machine learning to make analysis
+* Creating models to manipulate and analysis data using LogisticRegression or RandomForestClassifier and visualizaing them by plotting charts in Python
 
 [Additional Practice Questions](https://github.com/mommafish/BCG_Rise/tree/main/Mini_Project/More_Exercises)
 1. Python Exercise
