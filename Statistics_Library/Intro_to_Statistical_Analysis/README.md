@@ -3,18 +3,18 @@
 
 
 <!-- Add link to the sections -->
-[1. Descriptive Stats](#1) <br>
-[2. Basic Probability](#2) <br>
-[3. Random Variables 1](#3) <br> 
-[4. Random Variables 2](#4) <br> 
-[5. Sampling & Confidence Intervals](#5) <br> 
-[6. Hypothesis Testing 1](#6) <br> 
-[7. Hypothesis Testing 2](#7) <br> 
-[8. Additional Notes](#8) <br> 
+[1. Descriptive Stats](#Descriptive_Stats) <br>
+[2. Basic Probability](#Basic_Probability) <br>
+[3. Random Variables 1](#Random_Variables_1) <br> 
+[4. Random Variables 2](#Random_Variables_2) <br> 
+[5. Sampling & Confidence Intervals](#Sampling_&_Confidence_Intervals) <br> 
+[6. Hypothesis Testing 1](#Hypothesis_Testing_1) <br> 
+[7. Hypothesis Testing 2](#Hypothesis_Testing_2) <br> 
+[8. Additional Notes](#Additional_Notes) <br> 
 <!-- ABOUT Section Ends -->
 
-##### 1
-#### [Descriptive Stats](https://github.com/mommafish/BCG_Rise/tree/main/Statistics_Library/Intro_to_Statistical_Analysis/1115_Descriptive_Stats)
+
+#### [Descriptive_Stats](https://github.com/mommafish/BCG_Rise/tree/main/Statistics_Library/Intro_to_Statistical_Analysis/1115_Descriptive_Stats)
 * Using Pandas to find the mean, mode, median, etc
   * df['dataset'].mean()
   * df['dataset'].agg({'columnA':['mean'] , 'columnB':['mode'] , 'columnC':['median']}) 
@@ -25,8 +25,7 @@
   * using stats.percentileofscore to show range
 
 
-##### 2  
-#### [Basic Probability](https://github.com/mommafish/BCG_Rise/tree/main/Statistics_Library/Intro_to_Statistical_Analysis/1116_Basic_Probability)
+#### [Basic_Probability](https://github.com/mommafish/BCG_Rise/tree/main/Statistics_Library/Intro_to_Statistical_Analysis/1116_Basic_Probability)
 * Probability Basics (Please refer to '04-04-Probability')
   * eg. coin toss with heads or tails 
 * Conditional Probability and Dependence
@@ -43,8 +42,7 @@
   * x = range of data
 
 
-##### 3
-#### [Random Variables 1](https://github.com/mommafish/BCG_Rise/tree/main/Statistics_Library/Intro_to_Statistical_Analysis/1117_Random_Variables_1)
+#### [Random_Variables_1](https://github.com/mommafish/BCG_Rise/tree/main/Statistics_Library/Intro_to_Statistical_Analysis/1117_Random_Variables_1)
 * Individual Assignment 1 (Bernoulli and Binomal Random Variables)
   * Bernoulli function (bernoulli(x))
   * Probability Mass Function (x.pmf)
@@ -58,8 +56,7 @@
       * e.g = binom.pmf(3,5,0.5)
 
 
-##### 4
-#### [Random Variables 2](https://github.com/mommafish/BCG_Rise/tree/main/Statistics_Library/Intro_to_Statistical_Analysis/1118_Random_Variables_2)
+#### [Random_Variables_2](https://github.com/mommafish/BCG_Rise/tree/main/Statistics_Library/Intro_to_Statistical_Analysis/1118_Random_Variables_2)
 * Central Limit Theorem
   * Defining a distribution that is non-normal
   * Using Kurtosis to measure the "tailedness" of the probability distribution of a random variable (np.round(kurtosis(x),2)))
@@ -74,8 +71,7 @@
     * A discrete random variable that counts the number of times a certain event will occur in a specific interval.
 
 
-##### 5
-#### [Sampling & Confidence Intervals](https://github.com/mommafish/BCG_Rise/tree/main/Statistics_Library/Intro_to_Statistical_Analysis/1122_Sampling_Confidence_Intervals)
+#### [Sampling_&_Confidence_Intervals](https://github.com/mommafish/BCG_Rise/tree/main/Statistics_Library/Intro_to_Statistical_Analysis/1122_Sampling_Confidence_Intervals)
 * Sample Distribution of a sample proportion
   * p-hat
     * The sample proportion, denoted. (pronounced p-hat), is the proportion of individuals in the sample who have that particular characteristic; in other words, the number of individuals in the sample who have that characteristic of interest divided by the total sample size (n)
@@ -89,9 +85,8 @@
   * 95% Confidence Interval analysis
     * from scipy import stats
 
-  
-##### 6
-#### [Hypothesis Testing 1](https://github.com/mommafish/BCG_Rise/tree/main/Statistics_Library/Intro_to_Statistical_Analysis/1123_Hypothesis_Testing_1)
+
+#### [Hypothesis_Testing_1](https://github.com/mommafish/BCG_Rise/tree/main/Statistics_Library/Intro_to_Statistical_Analysis/1123_Hypothesis_Testing_1)
 * Hypothesis testing refers to the formal procedures used by statisticians to accept or reject such statistical hypotheses. e.g a coin flip
   1. Null hypothesis, Ho: half the flips would result in Heads and half, in Tails
   2. Alternative hypothesis, Ha: the number of Heads and Tails would be very different
@@ -115,8 +110,8 @@
   1. Type I error - Reject Null when it is True 
   2. Type II error - Accept Null when it is False
 
-##### 7
-#### [Hypothesis Testing 2](https://github.com/mommafish/BCG_Rise/tree/main/Statistics_Library/Intro_to_Statistical_Analysis/1124_Hypothesis_Testing_2)
+
+#### [Hypothesis_Testing_2](https://github.com/mommafish/BCG_Rise/tree/main/Statistics_Library/Intro_to_Statistical_Analysis/1124_Hypothesis_Testing_2)
 * Individual Assignment (Hypothesis Testing-Lab)
   * Practice Questions to Accept or Reject Null Hypothesis for One Tailed and Two Tailed Test.
     * Z-Score
@@ -126,7 +121,7 @@
     * Chi-Squared
 
 ##### 8
-#### [Additional Notes](https://github.com/mommafish/BCG_Rise/tree/main/Statistics_Library/Intro_to_Statistical_Analysis/1125_Additional_Notes)
+#### [Additional_Notes](https://github.com/mommafish/BCG_Rise/tree/main/Statistics_Library/Intro_to_Statistical_Analysis/1125_Additional_Notes)
 * Additional Notes for reference provided by Trainer.
   * Parametric vs Non-Parametric
   * Types of Data
