@@ -7,7 +7,7 @@
 
 <!-- MAP Section Starts -->
 ### History
-[TBA]()
+[Introduction to Machine Learning](https://github.com/mommafish/BCG_Rise/tree/main/ML_Library/Intro_to_ML)
 * Covered the basics of Machine Learning and practice from sample questions provided by BCG
 * ML functions are worked on Jupyter Notebook
 
