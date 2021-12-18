@@ -120,7 +120,7 @@
     * ANOVA
     * Chi-Squared
 
-##### 8
+
 #### [Additional_Notes](https://github.com/mommafish/BCG_Rise/tree/main/Statistics_Library/Intro_to_Statistical_Analysis/1125_Additional_Notes)
 * Additional Notes for reference provided by Trainer.
   * Parametric vs Non-Parametric
