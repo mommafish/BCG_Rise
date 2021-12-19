@@ -25,7 +25,7 @@
 
 #### [Exploratory_Data_Analysis_for_Classification](https://github.com/mommafish/BCG_Rise/tree/main/ML_Library/Intro_to_ML/1201_Exploratory_Data_Analysis_(EDA)_for_Classification_pt2)
 * Visualizing Data
-    * using select_dtypes(include='object')     # This is yo show non numeric objects
+    * using select_dtypes(include='object') # This is to show non numeric objects
     * Various types of plotting methods using (plt-matplotlib and sns-Seaborn)
 * Merge, join, concatenate and compare
     * pd.merge(left_dataframe, right_dataframe, on="key")   # This is how to merge two columns indicating which is left or right and naming them using the key of the dataframe
