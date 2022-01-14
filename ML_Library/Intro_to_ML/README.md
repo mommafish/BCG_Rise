@@ -68,7 +68,7 @@
 * Drop Duplicates
     * (eg) creditcardDF.drop_duplicates(subset = 'customer_id', keep = 'first', inplace = True)
 
-#### [Regression using Scikit](https://github.com/mommafish/BCG_Rise/tree/main/ML_Library/Intro_to_ML/1206_Regression_using_Scikit)
+#### [Regression_using_Scikit](https://github.com/mommafish/BCG_Rise/tree/main/ML_Library/Intro_to_ML/1206_Regression_using_Scikit)
 * tba
 
 
