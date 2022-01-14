@@ -6,6 +6,7 @@
 [1. Exploratory Data Analysis pt1](#Exploratory_Data_Analysis_for_Regression) <br>
 [2. Exploratory_Data_Analysis pt2](#Exploratory_Data_Analysis_for_Classification) <br>
 [3. Data Preparation and Cleaning](#Data_Preparation_and_Cleaning) <br>
+[4. Regression using Scikit](#Regression_using_Scikit) <br>
 
 <!-- ABOUT Section Ends -->
 
@@ -66,6 +67,11 @@
 
 * Drop Duplicates
     * (eg) creditcardDF.drop_duplicates(subset = 'customer_id', keep = 'first', inplace = True)
+
+#### [Regression using Scikit](https://github.com/mommafish/BCG_Rise/tree/main/ML_Library/Intro_to_ML/1206_Regression_using_Scikit)
+* tba
+
+
 
 
 <!-- Revision Section Ends -->
