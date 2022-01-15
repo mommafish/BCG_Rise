@@ -7,6 +7,7 @@
 [2. Exploratory_Data_Analysis pt2](#Exploratory_Data_Analysis_for_Classification) <br>
 [3. Data Preparation and Cleaning](#Data_Preparation_and_Cleaning) <br>
 [4. Regression using Scikit](#Regression_using_Scikit) <br>
+[5. Classification using Scikit Learn](#Classification_using_Scikit_Learn) <br>
 
 <!-- ABOUT Section Ends -->
 
@@ -83,6 +84,10 @@
         5. Make predictions
         6. Check accuracy score 
     * Accuracy Score important data to lookat, R^square
+
+
+#### [Classification_using_Scikit_Learn](https://github.com/mommafish/BCG_Rise/tree/main/ML_Library/Intro_to_ML/1207_Classification_using_Scikit_Learn)
+* tba
 
 
 

@@ -1,0 +1,7 @@
+Loss function for classification
+Statistical learning theory for supervised learning
+ROC curves
+logistics regression model
+Classification
+skitc learn
+imbalance data
