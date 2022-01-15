@@ -70,7 +70,19 @@
 
 #### [Regression_using_Scikit](https://github.com/mommafish/BCG_Rise/tree/main/ML_Library/Intro_to_ML/1206_Regression_using_Scikit)
 * Refer to Live Class (Introduction to Linear Regression)
-* tba
+* Modeling
+    * Start with `train_test_split` function from the `sklearn.model_selection` module
+    * Scale and transform the dataset
+        * sc = StandardScaler().fit_transform(x_variables)
+        * x_variables = pd.DataFrame(sc, columns = x_variables.keys())
+    * Steps for modeling.
+        1. Prepare X & Y data for modeling
+        2. Split the data
+        3. Build model on training data set
+        4. Fit the model
+        5. Make predictions
+        6. Check accuracy score 
+    * Accuracy Score important data to lookat, R^square
 
 
 
