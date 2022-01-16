@@ -7,7 +7,8 @@
 [2. Exploratory_Data_Analysis pt2](#Exploratory_Data_Analysis_for_Classification) <br>
 [3. Data Preparation and Cleaning](#Data_Preparation_and_Cleaning) <br>
 [4. Regression using Scikit](#Regression_using_Scikit) <br>
-[5. Classification using Scikit Learn](#Classification_using_Scikit_Learn) <br>
+[5. Classification using Scikit Learn](#Classification_using_Scikit_Learn) <br> 
+[6. Improving Model Performance](#Improving_Model_Performance) <br>
 
 <!-- ABOUT Section Ends -->
 
@@ -87,9 +88,24 @@
 
 
 #### [Classification_using_Scikit_Learn](https://github.com/mommafish/BCG_Rise/tree/main/ML_Library/Intro_to_ML/1207_Classification_using_Scikit_Learn)
+* Practice on Individual Assignment
+* Recap notes on 1207_LiveClass
+    * Method 1: read_csv and selecting columns
+    * Method 2: read_csv and drop unwated columns
+* Logistics Regression Model
+    2. Split the data
+    3. Build model on training data set
+    4. Fit the model
+    5. Make predictions
+    6. Check accuracy score 
+        * .reshape(-1,1)
+        * confusion_metrix(ytest, ypred)
+
+
+#### [Improving_Model_Performance](https://github.com/mommafish/BCG_Rise/tree/main/ML_Library/Intro_to_ML/1208_Improving_Model_Performance)
 * tba
 
 
 
-[Back to Top](#Topics_Covered)
 <!-- Revision Section Ends -->
+[Back to Top](#Topics_Covered)
