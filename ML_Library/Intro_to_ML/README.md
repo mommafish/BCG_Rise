@@ -9,7 +9,7 @@
 [4. Regression using Scikit](#Regression_using_Scikit) <br>
 [5. Classification using Scikit Learn](#Classification_using_Scikit_Learn) <br> 
 [6. Improving Model Performance](#Improving_Model_Performance) <br>
-[7. Scikit Learn & Natural Language processing](#ScikitLearn_&_Natural_Language_processing) <br>  
+[7. Scikit Learn & Natural Language processing](#Scikit_Learn_&_Natural_Language_processing) <br>  
 
 <!-- ABOUT Section Ends -->
 
@@ -117,7 +117,7 @@
     * Apply nested cross validation to create model
 
 
-#### [ScikitLearn_&_Natural_Language_processing](https://github.com/mommafish/BCG_Rise/tree/main/ML_Library/Intro_to_ML/1213_ScikitLearn_&_Natural_Language_processing)
+#### [Scikit_Learn_&_Natural_Language_processing](https://github.com/mommafish/BCG_Rise/tree/main/ML_Library/Intro_to_ML/1213_ScikitLearn_&_Natural_Language_processing)
 * tba
 
 
