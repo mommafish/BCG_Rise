@@ -9,7 +9,7 @@
 [4. Regression using Scikit](#Regression_using_Scikit) <br>
 [5. Classification using Scikit Learn](#Classification_using_Scikit_Learn) <br> 
 [6. Improving Model Performance](#Improving_Model_Performance) <br>
-[7. Scikit Learn & Natural Language processing](#Scikit_Learn_and_Natural_Language_processing) <br>   
+[7. Scikit Learn & Natural Language processing](#Scikit_Learn_and_Natural_Language_processing) <br>
 [8. Model deployement and productionalizing overview](#Model_deployement_and_productionalizing_overview) <br> 
 
 <!-- ABOUT Section Ends -->
