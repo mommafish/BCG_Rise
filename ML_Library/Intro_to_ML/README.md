@@ -9,7 +9,8 @@
 [4. Regression using Scikit](#Regression_using_Scikit) <br>
 [5. Classification using Scikit Learn](#Classification_using_Scikit_Learn) <br> 
 [6. Improving Model Performance](#Improving_Model_Performance) <br>
-[7. Scikit Learn & Natural Language processing](#Scikit_Learn_and_Natural_Language_processing) <br>  
+[7. Scikit Learn & Natural Language processing](#Scikit_Learn_and_Natural_Language_processing) <br>   
+[8. Model deployement and productionalizing overview](#Model_deployement_and_productionalizing_overview) <br> 
 
 <!-- ABOUT Section Ends -->
 
@@ -118,7 +119,20 @@
 
 
 #### [Scikit_Learn_and_Natural_Language_processing](https://github.com/mommafish/BCG_Rise/tree/main/ML_Library/Intro_to_ML/1213_ScikitLearn_&_Natural_Language_processing)
+* Refer to Individual Assignment
+    * Unsupervised Learning
+    * Apply K-Means clustering
+    * Apply agglomerative clustering
+* Additional Revision Recap
+    * EDA exercise
+    * Correlation test
+    * Feature Engineering
+    * Modeling exercise
+    
+
+#### [Model_deployement_and_productionalizing_overview](https://github.com/mommafish/BCG_Rise/tree/main/ML_Library/Intro_to_ML/1214_Model_deployement_and_productionalizing_overview)
 * tba
+
 
 
 
