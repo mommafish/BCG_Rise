@@ -12,6 +12,7 @@
 [7. Scikit Learn & Natural Language processing](#Scikit_Learn_and_Natural_Language_processing) <br>
 [8. Model deployement and productionalizing overview](#Model_deployement_and_productionalizing_overview) <br>
 [9. Common Challenges](#Common_Challenges) <br>
+[10. Time_Series_Forecasting](#Time_Series_Forecasting) <br>
 
 <!-- ABOUT Section Ends -->
 
@@ -147,7 +148,32 @@
 
 
 #### [Common_Challenges](https://github.com/mommafish/BCG_Rise/tree/main/ML_Library/Intro_to_ML/1216_Common_Challenges)
-* tba
+* Mini Quiz 9
+    * Overall recap of all chapters in Machine learning.
+    * Practice on Linear Regression.
+
+
+#### [Time_Series_Forecasting](https://github.com/mommafish/BCG_Rise/tree/main/ML_Library/Intro_to_ML/1223_Time_Series_Forecasting)
+* Final notes on Time series Forecasting
+    * Check if Data is stationary
+        * Rolling Statistics
+        * Dickey Fuller test
+        * ACF and PACF plots
+    * Make Data Stationary
+        * Log Transformation / Log Scaling
+        * Differencing / Log Differencing
+        * Decomposition plots
+        * Expontential Weighted moving average
+    * ARIMA Models
+        * Auto regression model (AR)
+        * Moving Average model (MA)
+        * ARMA
+        * ARIMA
+            * Auto ARIMA
+            * Seasonal ARIMA / Auto SARIMA
+        * ARIMAX and SARIMAX
+
+
 
 
 <!-- Revision Section Ends -->
