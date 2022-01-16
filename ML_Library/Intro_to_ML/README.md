@@ -10,7 +10,8 @@
 [5. Classification using Scikit Learn](#Classification_using_Scikit_Learn) <br> 
 [6. Improving Model Performance](#Improving_Model_Performance) <br>
 [7. Scikit Learn & Natural Language processing](#Scikit_Learn_and_Natural_Language_processing) <br>
-[8. Model deployement and productionalizing overview](#Model_deployement_and_productionalizing_overview) <br> 
+[8. Model deployement and productionalizing overview](#Model_deployement_and_productionalizing_overview) <br>
+[9. Common Challenges](#Common_Challenges) <br>
 
 <!-- ABOUT Section Ends -->
 
@@ -131,9 +132,22 @@
     
 
 #### [Model_deployement_and_productionalizing_overview](https://github.com/mommafish/BCG_Rise/tree/main/ML_Library/Intro_to_ML/1214_Model_deployement_and_productionalizing_overview)
+* Refer to Individual Assignment
+* Regression Model
+    * Logistics Regression
+    * Drop unwanted columns
+    * Convert to dummy variables
+        * .dummies()
+        * LabelEncoder.fit_transform
+    * heatmap, correlation
+    * Model test and accuracy score
+        * classification_report(ytest, ypred)
+        * cross_val_predict
+        * confusion matrix
+
+
+#### [Common_Challenges](https://github.com/mommafish/BCG_Rise/tree/main/ML_Library/Intro_to_ML/1216_Common_Challenges)
 * tba
-
-
 
 
 <!-- Revision Section Ends -->
