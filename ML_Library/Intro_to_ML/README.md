@@ -9,6 +9,7 @@
 [4. Regression using Scikit](#Regression_using_Scikit) <br>
 [5. Classification using Scikit Learn](#Classification_using_Scikit_Learn) <br> 
 [6. Improving Model Performance](#Improving_Model_Performance) <br>
+[7. Scikit Learn & Natural Language processing](#ScikitLearn_&_Natural_Language_processing) <br>  
 
 <!-- ABOUT Section Ends -->
 
@@ -103,6 +104,20 @@
 
 
 #### [Improving_Model_Performance](https://github.com/mommafish/BCG_Rise/tree/main/ML_Library/Intro_to_ML/1208_Improving_Model_Performance)
+* Refer to Individual Assignments
+* Cross Validation
+    * K-Fold cross validation
+    * Nested cross validation
+* Dimensionality Reduction
+    * **Principle component analysis**, or **PCA**, is an alternative to regularization and straight-forward feature elimination.
+    * .multivariate_normal
+* Feature Selection
+    * Eliminate low variance features
+    * import function = feature_selection
+    * Apply nested cross validation to create model
+
+
+#### [ScikitLearn_&_Natural_Language_processing](https://github.com/mommafish/BCG_Rise/tree/main/ML_Library/Intro_to_ML/1213_ScikitLearn_&_Natural_Language_processing)
 * tba
 
 
